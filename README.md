@@ -9,12 +9,13 @@ This is a simple morse code docoder that uses `scikit-learn`'s K-means++ algorit
 ![K-means++ cluster of morse code](./images/clusters.png)
 
 
-## Requirements
+## System Requirements
 
  - Python 3.7.0
  - `bash`
  - `pip`
  - `portaudio`
+ - `tk`
  - `unzip`
  - `wget`
 
