@@ -12,7 +12,11 @@ This is a simple morse code docoder that uses `scikit-learn`'s K-means++ algorit
 ## Requirements
 
  - Python 3.7.0
- - `pip`, `wget`, `unzip`, `bash`
+ - `bash`
+ - `pip`
+ - `portaudio`
+ - `unzip`
+ - `wget`
 
 
 ## Installation
